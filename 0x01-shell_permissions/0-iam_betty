@@ -1,2 +1,2 @@
 #!/bin/bash
-su betty
+cmhod u+x,g+x,o+r hello
